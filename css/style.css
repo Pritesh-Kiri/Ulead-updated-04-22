@@ -5638,6 +5638,7 @@ figure.snip1192 .author h5 span {
   .perks-section .perk-section-left h3 {
     font-size: 35px;
     margin-top: 0px;
+    display: block;
   }
 
   .perks-section .perk-section-left h3::before {
@@ -5810,6 +5811,7 @@ figure.snip1192 .author h5 span {
     text-align: center;
     font-size: 35px;
     margin-top: 0px;
+    display: block;
   }
 
   .youth-section .youth-section-right h3::before {
