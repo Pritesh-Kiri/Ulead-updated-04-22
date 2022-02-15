@@ -994,6 +994,7 @@ body {
   #apply-page-position-details-hero h1 {
     text-align: center;
     padding-left: 0px;
+    margin-bottom: 15px !important;
   }
 
   #apply-page-position-details-hero .ulead-video {
@@ -4841,7 +4842,7 @@ figure.snip1192 .author h5 span {
 
 @media screen and (max-width: 576px) {
   .testimonial-section > h2 {
-    font-size: 40px;
+    font-size: 35px;
     margin-bottom: 10px;
     margin-top: 0px;
   }
@@ -5256,7 +5257,7 @@ figure.snip1192 .author h5 span {
     padding-bottom: 0px;
   }
   .application-process-section h2 {
-    font-size: 40px;
+    font-size: 35px;
     padding-top: 30px;
   }
 
@@ -5401,7 +5402,7 @@ figure.snip1192 .author h5 span {
 }
 @media screen and (max-width: 776px) {
   .skyrocket-section > h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
 
   .skyrocket-section > h2::before {
@@ -5417,7 +5418,7 @@ figure.snip1192 .author h5 span {
   }
   .skyrocket-section > p {
     padding: 0px 15px;
-    width: 90%;
+    width: 100%;
     font-size: 16px;
   }
   .skyrocket-section .skyrocket-grid {
@@ -5439,7 +5440,7 @@ figure.snip1192 .author h5 span {
 
   .skyrocket-section .skyrocket-grid div h4 {
     font-family: "Montserrat", sans-serif;
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .skyrocket-section .skyrocket-grid div img {
@@ -5524,7 +5525,7 @@ figure.snip1192 .author h5 span {
   }
 
   .application-criteria-section .section-title h3 {
-    font-size: 40px;
+    font-size: 35px;
     margin-top: 0px;
   }
 
@@ -5548,6 +5549,7 @@ figure.snip1192 .author h5 span {
   }
   .application-criteria-section .section-title > p {
     width: 100%;
+    font-size: 16px;
   }
 }
 
@@ -5804,7 +5806,7 @@ figure.snip1192 .author h5 span {
 
   .youth-section .youth-section-right h3 {
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
     margin-top: 0px;
   }
 
@@ -5824,6 +5826,10 @@ figure.snip1192 .author h5 span {
   }
   .youth-section .youth-section-left .yl-content {
     padding: 10px 20px;
+  }
+  .youth-section .youth-section-left .yi-content h2 span,
+  .youth-section .youth-section-left .yl-content h2 span {
+    font-size: 30px;
   }
 }
 
@@ -5910,7 +5916,7 @@ figure.snip1192 .author h5 span {
     width: 400px;
   }
   .roles-section h1 {
-    font-size: 40px;
+    font-size: 35px;
     margin-top: 30px;
   }
 
@@ -5927,6 +5933,7 @@ figure.snip1192 .author h5 span {
   }
 
   .roles-section > p {
-    width: 90%;
+    width: 100%;
+    font-size: 16px;
   }
 }
