@@ -1594,7 +1594,7 @@ body {
 .about-yi-yl-section {
   padding: 70px 40px;
 
-  background-image: url("https://res.cloudinary.com/di3tuzgef/image/upload/v1638362190/ulead/3333_bxcsmq.jpg");
+  background-image: url("");
   background-size: cover;
   background-position: left;
 
@@ -4476,7 +4476,7 @@ figure.snip1192 .author h5 span {
   background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0);
   padding: 40px;
-  background-image: url("../1.jpeg");
+  background-image: url("../perks.jpg");
 }
 
 .perks-section .perk-section-left h3 {
@@ -4665,7 +4665,7 @@ figure.snip1192 .author h5 span {
   height: 500px;
   background-color: #c1c1c1;
   padding: 40px;
-  background-image: url(https://images.unsplash.com/photo-1620893749736-346f4a8fe866?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2FyZWVyLHdoaXRlfHx8fHx8MTY0MjUwMjM3OA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=760);
+  background-image: url(..//Sky_Rocket_2.jpg);
 }
 
 .youth-section .youth-section-right h3 {
@@ -5568,7 +5568,7 @@ figure.snip1192 .author h5 span {
   background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0);
   padding: 40px;
-  background-image: url(../1.jpeg);
+  background-image: url(https://res.cloudinary.com/di3tuzgef/image/upload/v1644955646/ulead/perks_ro2aou.jpg);
   background-size: 760px 500px;
 }
 
@@ -5582,6 +5582,7 @@ figure.snip1192 .author h5 span {
   margin-bottom: 10px;
   font-family: "Montserrat", sans-serif;
   font-size: 40px;
+  display: none;
 }
 
 .perks-section .perks-section-right {
@@ -5765,7 +5766,7 @@ figure.snip1192 .author h5 span {
   height: 500px;
   background-color: #c1c1c1;
   padding: 40px;
-  background-image: url(https://images.unsplash.com/photo-1620893749736-346f4a8fe866?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2FyZWVyLHdoaXRlfHx8fHx8MTY0MjUwMjM3OA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=760);
+  background-image: url(https://res.cloudinary.com/di3tuzgef/image/upload/v1644955646/ulead/Level_750x500_njbruc.jpg);
 }
 
 .youth-section .youth-section-right h3 {
@@ -5774,6 +5775,7 @@ figure.snip1192 .author h5 span {
   margin-bottom: 10px;
   font-family: "Montserrat", sans-serif;
   font-size: 40px;
+  display: none;
 }
 
 @media screen and (max-width: 776px) {
